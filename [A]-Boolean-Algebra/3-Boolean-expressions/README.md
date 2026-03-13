@@ -7,3 +7,5 @@ _______________
 F = (A * B) + C
 
 *Circuit Diagram*
+![Boolean Expression Circuit](image-Expression-01.png)
+_______________

@@ -13,7 +13,7 @@ Logic gates perform logical operations on one of more binary inputs to produce a
 - XNOR Gate
 _______________
 ## Logic Gate Symbols  
-![Logic Gates](images/logic-gates.png)
+![Logic Gates](logic-gates.png)
 _______________
 
 ## AND Gate

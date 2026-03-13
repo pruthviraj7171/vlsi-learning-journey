@@ -16,8 +16,8 @@ _______________
 ## AND Gate
 The 'AND' gate gives the output '1' when the both input are '1'.
 
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 A * B = Y
 
 *TRUTH TABLE*
@@ -33,8 +33,8 @@ _______________
 ## OR Gate 
 The 'OR' gate gives the output '1' if atleast one input is '1'
 
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 A + B = Y
 
 *Truth Table*
@@ -51,8 +51,8 @@ _______________
 Then 'NOT' gate it inverts the input ( If input '0' ouput becomes '1')
 ( If inpu '1' ouput becomes '0').
 
-INPUT  A
-OUTPUT Y
+-INPUT  A
+-OUTPUT Y
 
 *Truth Table*
 | A | Y |
@@ -65,8 +65,8 @@ _______________
 The 'NAND' gate is the invese of the 'AND' gate
 Output is '0' only when bot input are '1'.  
  
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 
 *Truth Table*
 | A | B | Y |
@@ -81,8 +81,8 @@ _______________
 The 'NOR' gate is the inverse of the 'OR' gate 
 output is '1' when both inputs are '0'.
 
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 
 *Truth Table*
 | A | B | Y |
@@ -96,8 +96,8 @@ _______________
 ## XOR Gate
 The 'XOR' gate gives output '1' when inputs are different.
 
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 
 *Truth Table*
 | A | B | Y |
@@ -111,8 +111,8 @@ _______________
 ## XNOR Gate
 The 'XNOR' gate gives output'1' when inputs are the same.
 
-INPUTS A , B 
-OUTPUT Y
+-INPUTS A , B 
+-OUTPUT Y
 
 *Truth Table*
 | A | B | Y |

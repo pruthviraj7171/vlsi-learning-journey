@@ -12,6 +12,9 @@ Logic gates perform logical operations on one of more binary inputs to produce a
 - XOR Gate
 - XNOR Gate
 _______________
+## Logic Gate Symbols  
+![Logic Gates](images/logic-gates.png)
+_______________
 
 ## AND Gate
 The 'AND' gate gives the output '1' when the both input are '1'.

@@ -8,16 +8,16 @@ _______________
 
 |    Law           |    Expression    |
 |     ----         |      ----        |
-| Identity Law     | A + 0 = A , A·1 = A |
-| Complement Law   | A + A' = 1 , A·A' = 0 |
-| Null Law         | A + 1 = 1 , A·0 = 0 |
-| Idempotent Law   | A + A = A , A·A = A |
-
-| Commutative Law  | A + B = B + A , A·B = B·A |
-| Associative Law  | (A+B)+C = A+(B+C) |
-| Distributive Law | A(B+C) = AB + AC |
+| Identity Law     | A·1 = A , A + 0 = A   |
+| Complement Law   | A·A' = 0 , A + A' = 1   |
+| Idempotent Law   | A·A = A , A + A = A  |
+| Commutative Law  |  A·B = B·A , A + B = B + A |
+| Distributive Law | A + (B + C) = (A + B) * (A + C)
+A * (B * C) = (A * B) + (A * C)|
+| Associative Law  | A * (B * C) = c * (A * B)
+A + (B + C) = c + (A + B) |
 _______________
-## *Simplification*
+# *Simplification*
 ## Identity Law
 The identity law states that a variable remains unchanged when combined with identity elements.
 
@@ -130,7 +130,7 @@ The associative law states that grouping of variables does not change the result
 
 Expression:
 
-A * (B + C)
+A * (B * C)
 
 Using Distributive Law:
 

@@ -17,7 +17,7 @@ _______________
 | Associative Law  | (A+B)+C = A+(B+C) |
 | Distributive Law | A(B+C) = AB + AC |
 _______________
-## Simplification
+## *Simplification*
 ## Identity Law
 The identity law states that a variable remains unchanged when combined with identity elements.
 
@@ -38,7 +38,6 @@ Also,
 A + 0 = A
 
 ## Circuit Diagram
-
 _______________
 ## Complement Law
 The complement law states that a variable combined with its complement produces a constant value.
@@ -60,6 +59,83 @@ Also,
 A + A' = 1
 
 ## Circuit Diagram
+_______________
+## Idempotent Law
+The idempotent law states that repeating the same variable in an operation does not change its value.
+
+## Problem on Idempotent Law - 03
+
+1) A * A = A + A
+
+Expression:
+
+A * A
+
+Using Idempotent Law:
+
+A * A = A
+
+Also,
+
+A + A = A
+
+## circuit Diagram
+_______________
+## commutative Law
+The commutative law states that the order of variables does not affect the result of the operation.
+
+## Problem on Commutative Law - 04
+
+1) A * B = B * A
+2) A + B = B + A
+
+Expression:
+
+A * B
+
+Using Commutative Law:
+
+A * B = B * A
+
+Also,
+
+A + B = B + A
+
+## circuit Diagram
+_______________
+## Distributive Law
+The distributive law states that multiplication distributes over addition and vice versa.
+
+## Problem on Commutative Law - 05
+
+1) A + (B + C) = (A + B) * (A + C)
+2) A * (B * C) = (A * B) + (A * C)
+
+Expression:
+
+A + (B * C)
+
+Using Distributive Law:
+
+A + (B + C) = (A + B) * (A + C)
+## circuit Diagram
+_______________
+## Associative Law
+The associative law states that grouping of variables does not change the result of the operation.
+
+## Problem on Associative Law - 06
+
+1) A * (B * C) = c * (A * B)
+2) A + (B + C) = c + (A + B)
+
+Expression:
+
+A * (B + C)
+
+Using Distributive Law:
+
+A + (B + C) = (A + B) * (A + C)
+## circuit Diagram
 _______________
 
 

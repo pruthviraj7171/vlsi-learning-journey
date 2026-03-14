@@ -32,6 +32,10 @@ A * 1
 Using Identity Law:
 
 A * 1 = A
+## Circuit Diagram
+
+_______________
+
 
 
 

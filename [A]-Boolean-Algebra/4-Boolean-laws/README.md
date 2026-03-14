@@ -37,7 +37,7 @@ Also,
 
 A + 0 = A
 
-## Circuit Diagram
+### Circuit Diagram
 _______________
 ## Complement Law
 The complement law states that a variable combined with its complement produces a constant value.
@@ -58,7 +58,7 @@ Also,
 
 A + A' = 1
 
-## Circuit Diagram
+### Circuit Diagram
 _______________
 ## Idempotent Law
 The idempotent law states that repeating the same variable in an operation does not change its value.
@@ -79,7 +79,7 @@ Also,
 
 A + A = A
 
-## circuit Diagram
+### circuit Diagram
 _______________
 ## commutative Law
 The commutative law states that the order of variables does not affect the result of the operation.
@@ -101,7 +101,7 @@ Also,
 
 A + B = B + A
 
-## circuit Diagram
+### circuit Diagram
 _______________
 ## Distributive Law
 The distributive law states that multiplication distributes over addition and vice versa.
@@ -118,7 +118,7 @@ A + (B * C)
 Using Distributive Law:
 
 A + (B + C) = (A + B) * (A + C)
-## circuit Diagram
+### circuit Diagram
 _______________
 ## Associative Law
 The associative law states that grouping of variables does not change the result of the operation.
@@ -135,7 +135,7 @@ A * (B * C)
 Using Distributive Law:
 
 A + (B + C) = (A + B) * (A + C)
-## circuit Diagram
+### circuit Diagram
 _______________
 
 

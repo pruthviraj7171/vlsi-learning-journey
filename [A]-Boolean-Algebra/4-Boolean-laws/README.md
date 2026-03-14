@@ -9,32 +9,59 @@ _______________
 |    Law           |    Expression    |
 |     ----         |      ----        |
 | Identity Law     | A + 0 = A , A·1 = A |
+| Complement Law   | A + A' = 1 , A·A' = 0 |
 | Null Law         | A + 1 = 1 , A·0 = 0 |
 | Idempotent Law   | A + A = A , A·A = A |
-| Complement Law   | A + A' = 1 , A·A' = 0 |
+
 | Commutative Law  | A + B = B + A , A·B = B·A |
 | Associative Law  | (A+B)+C = A+(B+C) |
 | Distributive Law | A(B+C) = AB + AC |
 _______________
-## Example Simplification
-*Identity Law*
-
+## Simplification
+## Identity Law
 The identity law states that a variable remains unchanged when combined with identity elements.
 
-## Problem - 01
+## Problem on Identity Law - 01
 
 1) A * 1 = A + 0
 
 Expression:
 
-A * 1
+A * 1 = A
 
 Using Identity Law:
 
 A * 1 = A
+
+Also,
+
+A + 0 = A
+
 ## Circuit Diagram
 
 _______________
+## Complement Law
+The complement law states that a variable combined with its complement produces a constant value.
+
+## Problem on Complement Law - 02
+
+1) A * A' = A + A'
+
+Expression:
+
+A * A' = 0
+
+Using Complement Law:
+
+A * A' = 0
+
+Also,
+
+A + A' = 1
+
+## Circuit Diagram
+_______________
+
 
 
 

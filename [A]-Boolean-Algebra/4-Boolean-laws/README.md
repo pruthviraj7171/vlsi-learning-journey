@@ -19,12 +19,23 @@ _______________
 ## Example Simplification
 *Identity Law*
 
-Simplify the expression:
+The identity law states that a variable remains unchanged when combined with identity elements.
+
+## Problem - 01
+
+1) A * 1 = A + 0
+
+Expression:
+
+A * 1
+
+Using Identity Law:
+
 A * 1 = A
 
 
-Using Identity Law:
-A + 0 = A
+
+
 
 
 

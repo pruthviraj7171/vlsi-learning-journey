@@ -4,7 +4,7 @@ Boolean laws are rules used to simplify Boolean expressions and design efficient
 
 These laws help reduce the number of logic gates required in a circuit.
 _______________
-## Boolean Laws
+## Boolean Laws Table
 
 |    Law           |    Expression    |
 |     ----         |      ----        |
@@ -16,3 +16,15 @@ _______________
 | Associative Law  | (A+B)+C = A+(B+C) |
 | Distributive Law | A(B+C) = AB + AC |
 _______________
+## Example Simplification
+*Identity Law*
+
+Simplify the expression:
+A * 1 = A
+
+
+Using Identity Law:
+A + 0 = A
+
+
+

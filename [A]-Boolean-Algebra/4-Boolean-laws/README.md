@@ -12,10 +12,10 @@ _______________
 | Complement Law   | A·A' = 0 , A + A' = 1   |
 | Idempotent Law   | A·A = A , A + A = A  |
 | Commutative Law  |  A·B = B·A , A + B = B + A |
-| Distributive Law | A + (B + C) = (A + B) * (A + C)
-                   | A * (B * C) = (A * B) + (A * C)|
-| Associative Law  | A * (B * C) = c * (A * B)
-                   | A + (B + C) = c + (A + B) |
+| Distributive Law | A + (B + C) = (A + B) * (A + C)|
+|                  | A * (B * C) = (A * B) + (A * C)|
+| Associative Law  | A * (B * C) = c * (A * B)|
+|                  | A + (B + C) = c + (A + B) |
 _______________
 # *Simplification*
 ## Identity Law

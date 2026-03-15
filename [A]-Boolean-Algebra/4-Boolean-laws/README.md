@@ -38,7 +38,7 @@ Also,
 A + 0 = A
 
 ### Circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Identity Law](Images-Simplification-01.png)
 _______________
 ## Complement Law
 The complement law states that a variable combined with its complement produces a constant value.

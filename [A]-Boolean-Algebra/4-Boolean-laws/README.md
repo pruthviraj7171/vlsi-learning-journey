@@ -60,7 +60,7 @@ Also,
 A + A' = 1
 
 ### Circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Complement Law](Image-Simplification-02.png)
 _______________
 ## Idempotent Law
 The idempotent law states that repeating the same variable in an operation does not change its value.
@@ -82,7 +82,7 @@ Also,
 A + A = A
 
 ### circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Idempotent Law](Image-Simplification-03.png)
 _______________
 ## commutative Law
 The commutative law states that the order of variables does not affect the result of the operation.
@@ -105,7 +105,7 @@ Also,
 A + B = B + A
 
 ### circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Commutative Law](Image-Simplification-04.png)
 _______________
 ## Distributive Law
 The distributive law states that multiplication distributes over addition and vice versa.
@@ -123,7 +123,7 @@ Using Distributive Law:
 
 A + (B + C) = (A + B) * (A + C)
 ### circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Distributive Law](Image-Simplification-05.png)
 _______________
 ## Associative Law
 The associative law states that grouping of variables does not change the result of the operation.
@@ -141,7 +141,7 @@ Using Distributive Law:
 
 A + (B + C) = (A + B) * (A + C)
 ### circuit Diagram
-![Commutative Law](images/commutative-law.png)
+![Associative Law](Image-Simplification-06.png)
 _______________
 
 

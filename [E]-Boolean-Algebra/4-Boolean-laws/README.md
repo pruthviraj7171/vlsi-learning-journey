@@ -144,6 +144,8 @@ A + (B + C) = (A + B) * (A + C)
 ![Associative Law](Image-Simplification-06.png)
 _______________
 
+pruutyuufhyruuyyuryuutyygyfyyuuryyrtgdfghsu
+
 
 
 

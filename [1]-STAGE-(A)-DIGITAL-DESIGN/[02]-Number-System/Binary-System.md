@@ -3,13 +3,14 @@ The Binary number system is a fundamental number system used in the digital elec
 
 Digits:
 0 - OFF State
+
 1 - ON State
 
 #Example :-
 
 (1 1 1 0 0 0)2
 
-|  |  |  |  |  | 
+| - | - |  - | - | - | 
 
 2⁵2⁴2³2²2¹2⁰
 

@@ -6,7 +6,7 @@ Digits:
 
 1 - ON State
 
-#Example :-
+### Example :-
 
 (1 1 1 0 0 0)2
 
@@ -31,7 +31,7 @@ The octal number system has base '8' uses '8' digits
 Digits:
 0 , 1 , 2 , 3 , 4 , 5 ,6 ,7 
 
-# Example 
+### Example 
 
 (231.25)8 
 

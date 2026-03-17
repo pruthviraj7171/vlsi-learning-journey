@@ -5,7 +5,13 @@ Digits:
 0 - OFF State
 1 - ON State
 
-Inside Digital circuits signals are represented using '0' and '1' 
+#Example :-
+(1 1 1 0 0 0)2
+| | | | | | 
+2⁵2⁴2³2²2¹2⁰
+
+It will be taken base '2' because binary have two characters.
+ 
 
 ## Decimal Number system 
 The decimal number system used in everyday calculations.

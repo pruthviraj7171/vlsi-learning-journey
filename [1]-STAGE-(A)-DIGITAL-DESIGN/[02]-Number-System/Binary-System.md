@@ -7,7 +7,9 @@ Digits:
 
 #Example :-
 (1 1 1 0 0 0)2
+
 | | | | | | 
+
 2⁵2⁴2³2²2¹2⁰
 
 It will be taken base '2' because binary have two characters.

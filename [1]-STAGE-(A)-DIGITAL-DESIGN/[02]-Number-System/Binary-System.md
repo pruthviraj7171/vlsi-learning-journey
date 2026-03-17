@@ -31,6 +31,12 @@ The octal number system has base '8' uses '8' digits
 Digits:
 0 , 1 , 2 , 3 , 4 , 5 ,6 ,7 
 
+# Example 
+
+(231.25)8 
+
+
+
 ## Hexadecimal Number system
 The hexadecimal number system has an base '16'
 

@@ -6,6 +6,7 @@ Digits:
 1 - ON State
 
 #Example :-
+
 (1 1 1 0 0 0)2
 
 | | | | | | 

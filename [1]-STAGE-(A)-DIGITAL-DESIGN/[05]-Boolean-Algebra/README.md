@@ -1,5 +1,5 @@
 # Boolean Algebra
-
+ 
 ## Topics Covered
 - Boolean Expressions
 - Laws

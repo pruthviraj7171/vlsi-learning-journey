@@ -19,7 +19,7 @@ Binary to Hexadecimal
 The final value gives after conversation from binary to hexadecimal
 
 --------------------------
-| 4 F 7 . D 5 0 (base 16) |
+| 4 F 7 . D 5 0 (base 16) |   Hexadecimal
 --------------------------
 
 010011110111.110101010 (base 2) = 4F7.D50 (base 16)

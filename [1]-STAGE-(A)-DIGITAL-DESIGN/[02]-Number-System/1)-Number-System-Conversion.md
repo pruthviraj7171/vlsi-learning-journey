@@ -16,7 +16,7 @@ Binary to Hexadecimal
 
 *4.   F.   7.   D.   5.   0* (base 16) - Hexadecimal
 
-The final value gives after conversation from binary to hexadecimal
+The final value gives after conversion from binary to hexadecimal
 
 --------------------------
 | 4 F 7 . D 5 0 (base 16) |   Hexadecimal
@@ -42,6 +42,20 @@ we have an Hexadecimal number
  
 *F37A.B2* (base 16)
 
- F = 1111 , 3 = 0011 , A = 1010 . B = 1011 , 2 = 0010
+F = 1111 , 3 = 0011 , A = 1010 . B = 1011 , 2 = 0010
+ 
+Hexadecimal to Binary
 
- *1111,0011,1010 . 1011,0010* (base 2) Binary
+*1111,0011,1010 . 1011,0010* (base 2) Binary
+
+The final value gives after conversion from Hexadecimal to Binary
+
+-----------------------------
+| 1111,0011,1010 . 1011,0010 |
+-----------------------------
+
+*F37A.B2* =  *1111,0011,1010 . 1011,0010* 
+
+---------------
+
+

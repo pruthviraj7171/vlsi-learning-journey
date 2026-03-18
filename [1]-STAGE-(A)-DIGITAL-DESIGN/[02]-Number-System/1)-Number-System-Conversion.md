@@ -1,5 +1,5 @@
 ## Binary To Hexadecimal 
-Here conversation of binary to number
+Here conversion of binary to number
 
 ### For example
 we have an binary number
@@ -27,7 +27,7 @@ The final value gives after conversion from binary to hexadecimal
 ---------------
 
 ## Hxadecimal To Binary
-The convertion of hexadecimal to binary
+The conversion of hexadecimal to binary
 
 ### For Example
 we have an Hexadecimal number
@@ -57,5 +57,31 @@ The final value gives after conversion from Hexadecimal to Binary
 *F37A.B2* =  *1111,0011,1010 . 1011,0010* 
 
 ---------------
+
+## Binary To Decimal
+The conversion of binary to decimal 
+
+## For Example
+we have an binary number
+
+1] *111000* (base 2)
+
+whre base '2' indicates binary
+
+To convert  *1 1 10 0 0* to decimal each bits consider a number 
+
+where :- 
+*0 = 2⁰ , 0 = 2¹ , 0 = 2² , 1 = 2³ , 1 = 2⁴ , 1 = 2⁵*
+
+Now we take only '1s' number '0s' will be zero
+
+2⁵ + 2⁴ +  2³ = *27*
+
+-----
+| 27 | Decimal 
+-----
+
+---------------
+
 
 

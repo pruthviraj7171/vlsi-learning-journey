@@ -23,7 +23,9 @@ The final value gives after conversation from binary to hexadecimal
 --------------------------
 
 *010011110111.110101010 (base 2) = 4F7.D50 (base 16)*
+
 ---------------
+
 ## Hxadecimal To Binary
 The convertion of hexadecimal to binary
 

@@ -12,11 +12,11 @@ The above binary number make a group of four
 
 0100,1111,0111,1101,0101,0000 (base 2) - Binary
 
-  |----|----|----|----|----| 
+Binary to Hexadecimal
 
-  4.   F.   7.   D.   5.   0 (base 16) - Hexadecimal
+4.   F.   7.   D.   5.   0 (base 16) - Hexadecimal
 
-The final value giver after conversation from binary to hexadecimal
+The final value gives after conversation from binary to hexadecimal
 
 --------------------------
 | 4 F 7 . D 5 0 (base 16) |

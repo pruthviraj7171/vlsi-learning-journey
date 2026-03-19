@@ -1,4 +1,4 @@
-## Binary To Hexadecimal 
+# Binary To Hexadecimal 
 Here conversion of binary to number
 
 ### For example

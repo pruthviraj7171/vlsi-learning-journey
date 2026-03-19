@@ -26,7 +26,7 @@ The final value gives after conversion from binary to hexadecimal
 
 ---------------
 
-## Hxadecimal To Binary
+# Hxadecimal To Binary
 The conversion of hexadecimal to binary
 
 ### For Example
@@ -58,10 +58,10 @@ The final value gives after conversion from Hexadecimal to Binary
 
 ---------------
 
-## Binary To Decimal
+# Binary To Decimal
 The conversion of binary to decimal 
 
-## For Example
+### For Example
 we have an binary number
 
 1] *111000* (base 2)
@@ -83,10 +83,10 @@ Now we take only '1s' number '0s' will be zero
 
 ---------------
 
-## successive Division Radix Conversion
+# successive Division Radix Conversion
 Successive division (or radix division) is a method for converting an integer from a source base (usually decimal) to a target base by repeatedly dividing the quotient by the new radix and recording the remainders. 
 
- ## For Example
+ ### For Example
 
 1] *119* (base 10) convert itnto binary
 

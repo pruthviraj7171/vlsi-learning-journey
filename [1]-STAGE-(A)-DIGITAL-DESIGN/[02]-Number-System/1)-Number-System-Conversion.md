@@ -83,5 +83,22 @@ Now we take only '1s' number '0s' will be zero
 
 ---------------
 
+## successive Division Radix Conversion
+Successive division (or radix division) is a method for converting an integer from a source base (usually decimal) to a target base by repeatedly dividing the quotient by the new radix and recording the remainders. 
 
+ ## For Example
 
+1] *119* (base 10) convert itnto binary
+
+now solving problem 
+
+1. Divide 119 by 2
+  119 / 2 = 59       1
+
+2. Divide 59 by 2
+   59 / 2 = 29       1
+   
+3. Divide 29 by 2
+    29 / 2 = 14      1
+4. Divide 14 by 2
+    14 / 2 = 7       0

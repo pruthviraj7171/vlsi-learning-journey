@@ -93,12 +93,16 @@ Successive division (or radix division) is a method for converting an integer fr
 now solving problem 
 
 1. Divide 119 by 2
+   
   119 / 2 = 59       1
 
-2. Divide 59 by 2
+3. Divide 59 by 2
+   
    59 / 2 = 29       1
    
-3. Divide 29 by 2
+5. Divide 29 by 2
+   
     29 / 2 = 14      1
-4. Divide 14 by 2
+7. Divide 14 by 2
+   
     14 / 2 = 7       0

@@ -94,15 +94,15 @@ now solving problem
 
 1. Divide 119 by 2
    
-  119 / 2 = 59       1
+  119 / 2 = 59---carry 1
 
 3. Divide 59 by 2
    
-   59 / 2 = 29       1
+   59 / 2 = 29---carry 1
    
 5. Divide 29 by 2
    
-    29 / 2 = 14      1
+    29 / 2 = 14---carry 1
 7. Divide 14 by 2
    
-    14 / 2 = 7       0
+    14 / 2 = 7---carry 0

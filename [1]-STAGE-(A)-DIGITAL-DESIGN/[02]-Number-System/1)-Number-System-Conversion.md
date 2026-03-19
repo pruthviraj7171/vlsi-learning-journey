@@ -94,15 +94,36 @@ now solving problem
 
 1. Divide 119 by 2
    
-  119 / 2 = 59---carry 1
+  119 / 2 = 59---carry=1
 
-3. Divide 59 by 2
+2. Divide 59 by 2
    
-   59 / 2 = 29---carry 1
+   59 / 2 = 29---carry=1
    
-5. Divide 29 by 2
+3. Divide 29 by 2
    
-    29 / 2 = 14---carry 1
-7. Divide 14 by 2
+    29 / 2 = 14---carry=1
    
-    14 / 2 = 7---carry 0
+4. Divide 14 by 2
+   
+    14 / 2 = 7---carry=0
+
+5. Divide 7 by 2
+
+   7 / 2 = 3---carry=1
+
+6. Divide 3 by 2
+
+   3 / 2 = 1---carry=1
+
+7. Divide 1 by 2
+
+   1 / 2 = 1---carry=1
+
+The final solution we got 
+
+----------------------------------------
+| *119* (base 10) = *1110111* (base 2) |
+----------------------------------------
+
+---------------

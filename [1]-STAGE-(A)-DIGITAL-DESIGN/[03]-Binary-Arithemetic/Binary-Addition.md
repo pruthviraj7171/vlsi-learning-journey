@@ -25,7 +25,7 @@ B = 1001
 
 1010 + 1001 = 10011 
 
-According to 16,8,4,2,1 it becomes
+According to Binary code - 16,8,4,2,1 it becomes
 
 16+2+1 = 19 (base 2)
 

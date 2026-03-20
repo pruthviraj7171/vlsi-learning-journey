@@ -3,8 +3,8 @@ Binary numbers can be added,subctracted,multiplyed and divided each numerical po
 
 *The binary arithemetic are* 
 
-1.Binary-Addition.md 
+1.Binary-Addition
 
-2.Binary-Subctraction.md
+2.Binary-Subctraction
 
 

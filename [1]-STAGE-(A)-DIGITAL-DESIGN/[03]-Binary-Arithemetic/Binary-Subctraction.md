@@ -3,4 +3,19 @@ The binary subctraction is a subctracting a two or more number is called as subc
 
 In subctraction output will be called as *Difference* & *Barrow*
 
-### Example:- For 3 Variable 
+### Example:- For three variable 
+
+  ----------------------------------------
+  |      Input       |      Output       | 
+  ----------------------------------------
+  | A     B     C   |    SUM       Carry |
+  ----------------------------------------
+  | 0     0     0   |    0          0    |
+  | 0     0     1   |    1          1    |
+  | 0     1     0   |    1          1    |          
+  | 0     1     1   |    0          1    |                 
+  | 1     0     0   |    1          0    |                  
+  | 1     0     1   |    0          0    |             
+  | 1     1     0   |    0          0    |                      
+  | 1     1     1   |    1          1    |           
+  ----------------------------------------

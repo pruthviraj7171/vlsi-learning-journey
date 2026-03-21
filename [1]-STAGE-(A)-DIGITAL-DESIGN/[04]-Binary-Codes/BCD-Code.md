@@ -37,3 +37,25 @@ The binary decimal code each decimal digit encoded into a group of four binary d
 | 9     1 0 0 1 |
 
   --------------
+### Negative weighted code
+
+
+| A | B | A and B |
+|---|---|---------|
+| T | T | T       |
+| T | F | F       |
+| F | T | F       |
+| F | F | F       |
+
+
+
+
+
+
+
+
+
+
+
+
+

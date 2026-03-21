@@ -3,8 +3,8 @@ A number system is a structured method for representing,naming and ordering nume
 
 *Topic covered*
 
-1.Binary-System
+- Binary-System
 
-2.Hexadecimal-System
+- Hexadecimal-System
 
-3.octal-System
+- octal-System

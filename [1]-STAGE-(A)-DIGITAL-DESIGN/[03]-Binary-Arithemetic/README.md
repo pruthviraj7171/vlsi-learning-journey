@@ -3,8 +3,8 @@ Binary numbers can be added,subctracted,multiplyed and divided each numerical po
 
 *Topic covred* 
 
-1.Binary-Addition
+- Binary-Addition
 
-2.Binary-Subctraction
+- Binary-Subctraction
 
 

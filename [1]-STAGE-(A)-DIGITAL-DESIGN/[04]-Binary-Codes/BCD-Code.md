@@ -40,17 +40,18 @@ The binary decimal code each decimal digit encoded into a group of four binary d
 ### Negative weighted code
 
 
-| A | B | A and B |
-|---|---|---------|
-| T | T | T       |
-| T | F | F       |
-| F | T | F       |
-| F | F | F       |
-
-
-
-
-
+|   | 8 | 4 | 2 | 1 |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 1 |
+| 2 | 0 | 0 | 1 | 0 |
+| 3 | 0 | 0 | 1 | 1 |
+| 4 | 0 | 1 | 0 | 0 |
+| 5 | 0 | 1 | 0 | 1 |
+| 6 | 0 | 1 | 1 | 0 |
+| 7 | 0 | 1 | 1 | 1 |
+| 8 | 1 | 0 | 0 | 0 |
+| 9 | 1 | 0 | 0 | 1 |
 
 
 

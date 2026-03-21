@@ -3,18 +3,16 @@ The binary addition is adding of two two or more numbers is called as addition.
 
 ### Example:- For three variable 
      
-      |      Input      |       Output       | 
-      |-----------------|--------------------|
-      | A     B     C   |    SUM       Carry |
-      | 0     0     0   |    0          0    |
-      | 0     0     1   |    1          0    |
-      | 0     1     0   |    1          0    |          
-      | 0     1     1   |    0          1    |                 
-      | 1     0     0   |    1          0    |                  
-      | 1     0     1   |    0          1    |             
-      | 1     1     0   |    0          1    |                      
-      | 1     1     1   |    1          1    |           
-     
+| Input A | Input B | Carry In (C) | Sum (S) | Carry Out (Cout) |
+| :---: | :---: | :---: | :---: | :---: |
+| 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 | 0 |
+| 0 | 1 | 0 | 1 | 0 |
+| 0 | 1 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 1 | 0 |
+| 1 | 0 | 1 | 0 | 1 |
+| 1 | 1 | 0 | 0 | 1 |
+| 1 | 1 | 1 | 1 | 1 |
 
 ### Problem=1 Addition 
 
@@ -30,16 +28,6 @@ According to Binary code - 16,8,4,2,1 it becomes
 
 
 
-| Input A | Input B | Carry In (C) | Sum (S) | Carry Out (Cout) |
-| :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 0 | 0 |
-| 0 | 0 | 1 | 1 | 0 |
-| 0 | 1 | 0 | 1 | 0 |
-| 0 | 1 | 1 | 0 | 1 |
-| 1 | 0 | 0 | 1 | 0 |
-| 1 | 0 | 1 | 0 | 1 |
-| 1 | 1 | 0 | 0 | 1 |
-| 1 | 1 | 1 | 1 | 1 |
 
 
 

@@ -12,7 +12,7 @@ Digits:
 
 | - | - |  - | - | - | 
 
-2⁵2⁴2³2²2¹2⁰
+2⁵-2⁴-2³-2²-2¹-2⁰
 
 It will be taken base '2' because binary have two characters.
 

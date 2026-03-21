@@ -2,15 +2,15 @@
 The binary decimal code each decimal digit encoded into a group of four binary digit.
 
 ### Various types of BCD codes 
-*8 4 2 1*
+- *8 4 2 1*
 
-*2 4 2 1*
+- *2 4 2 1*
 
-*5 4 2 1*
+- *5 4 2 1*
 
-*5 3 1 1*
+- *5 3 1 1*
 
-*8 1 -2 -1*
+- *8 1 -2 -1*
 
 ### Positive weighted code 
 |   | 8 | 4 | 2 | 1 |

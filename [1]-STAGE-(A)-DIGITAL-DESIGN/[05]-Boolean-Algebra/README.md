@@ -2,7 +2,7 @@
  
 *Topics Covered*
 
-- Boolean Expressions 
-- Laws
-- Simplification
+- Boolean Basics
+- Boolean Expression
+- Boolean Laws
 - DeMorgan Theorem

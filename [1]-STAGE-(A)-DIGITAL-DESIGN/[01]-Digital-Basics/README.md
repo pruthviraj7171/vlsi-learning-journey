@@ -3,8 +3,8 @@ Digital basics refer to the fundamental concepts of digital electronics and syst
 
 *Topic Covered*
 
--Digital-System
+- Digital-System
 
--Digital-vs-Analog
+- Digital-vs-Analog
 
 

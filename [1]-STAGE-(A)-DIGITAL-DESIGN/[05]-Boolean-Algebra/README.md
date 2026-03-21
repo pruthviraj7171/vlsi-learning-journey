@@ -1,6 +1,7 @@
 # Boolean Algebra
  
-## Topics Covered
+*Topics Covered*
+
 - Boolean Expressions
 - Laws
 - Simplification

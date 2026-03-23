@@ -17,7 +17,6 @@ And the complement of sum is the product of complement [(A + B)' = (A' * B')].
 | 0 | 1 | 1 | 0 |   0  |  1  |   0   |
 | 1 | 0 | 0 | 1 |   0  |  1  |   0   |
 | 1 | 1 | 0 | 0 |   0  |  1  |   0   |
-
 --------------------------------------
 
 ### Theorem:- 02

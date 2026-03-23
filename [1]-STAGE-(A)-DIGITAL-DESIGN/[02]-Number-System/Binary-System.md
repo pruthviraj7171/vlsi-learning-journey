@@ -8,11 +8,11 @@ Digits:
 
 ### Example :-
 
-(1 1 1 0 0 0)2
+| 1 | 1 | 1 | 0 | 0 | 0 |  
+|---|---|---|---|---|---|
+| 2⁵|-2⁴|-2³|-2²|-2¹|-2⁰|
 
-| - | - |  - | - | - | 
 
-2⁵-2⁴-2³-2²-2¹-2⁰
 
 It will be taken base '2' because binary have two characters.
 

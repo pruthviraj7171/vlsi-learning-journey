@@ -1,3 +1,4 @@
+
 ## De-morgans Theorem
 The de-morgans theorem consist of teo fundamental rules in boolean algebra that is related to AND , OR , NOT operation.
 
@@ -23,3 +24,12 @@ And the complement of sum is the product of complement [(A + B)' = (A' * B')].
 (A * B)' = (A' + B')
 
 ![De-morgans theorem circuit](Theorem-02.png)
+
+### Truth table
+| A | B | A'| B'| A'*B'| A+B | (A+B)'|
+|---|---|---|---|------|-----|-------|
+| 0 | 0 | 1 | 1 |  1   |  0  |   1   |
+| 0 | 1 | 1 | 0 |  1   |  0  |   1   |
+| 1 | 0 | 0 | 1 |  1   |  0  |   0   |
+| 1 | 1 | 0 | 0 |  0   |  1  |   0   |
+--------------------------------------

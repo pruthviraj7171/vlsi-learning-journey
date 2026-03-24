@@ -13,8 +13,8 @@ A truth table is a table used to show a all possible input combinations and thei
 
 |    Inputs   |   Outputs   |
 |-------------|-------------|
-|  A   |   B  |    A * B    |  
-|  0   |   0  |      0      |
-|  0   |   1  |      0      |
-|  1   |   0  |      0      |
-|  1   |   1  |      1      |
+|  A       B  |    A * B    |  
+|  0       0  |      0      |
+|  0       1  |      0      |
+|  1       0  |      0      |
+|  1       1  |      1      |

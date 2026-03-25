@@ -13,7 +13,7 @@ A = 1 , B = 0 , c = 0
 
 ------------------------
 ## Maxterms
-A maxterm ia a sun (OR) term it represents an unique input combinational which functional output will be (0).
+A maxterm ia a sum (OR) term it represents an unique input combinational which functional output will be (0).
 
 Maxterm = OR of all inputs.
 
@@ -40,7 +40,22 @@ A = 0 , B = 0 , C = 1
 | 1 1 0 | ABC' | m6 | A' + B' + C | M6 |
 | 1 1 1 | ABC | m7 | A' + B' + C' | M7 |                                                                           
 -------------------------------------------
-                                                                                 
+
+## Conical Sum Of Product
+The conical (sop) is also called as the *sum of minterms* and the function of the conical sum of product is (OR) sum its minterms which output is '1'
+
+### Example 
+If a function f(A , B , c) it is minterm (m)
+
+The conical so wiil be 
+
+f(A , B , c) = (A' * B * c) + (A * B' * C) + (A * B * C')
+
+Output = summation(3 , 5 , 6)
+
+## Conical product of sum
+
+
                                                                      
 
 

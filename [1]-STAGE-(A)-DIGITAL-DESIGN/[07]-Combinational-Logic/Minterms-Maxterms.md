@@ -28,8 +28,8 @@ A = 0 , B = 0 , C = 1
 -------------------------
 ### Truth Table 
 
-|   InputS    |                         Outputs                             |
-|-------------|-------------------------------------------------------------|
+|   InputS    |                   output                                    |
+|-------------|---------------|--------------|---------------|--------------|
 |  A   B   C  |    Minterm    |    Symbol    |    Maxterm    |    Symbol    |
 |  0   0   0  |    A' B' C'   |      m0      |    A  B  C    |      M0      |
 |  0   0   1  |    A' B' C    |      m1      |    A  B  C'   |      M1      |                     
@@ -40,7 +40,19 @@ A = 0 , B = 0 , C = 1
 |  1   1   0  |    A  B  C'   |      m6      |    A' B' C    |      M6      |                             
 |  1   1   1  |    A  B  C    |      m7      |    A' B' C'   |      M7      |                        
                                                                                
-                                                                                
+
+### Truth Table: Minterms and Maxterms (3-Variable)
+
+| Inputs (A B C) | Minterm (Product) | Symbol | Maxterm (Sum) | Symbol |
+| :---: | :---: | :---: | :---: | :---: |
+| 0 0 0 | A'B'C' | m0 | A + B + C | M0 |
+| 0 0 1 | A'B'C | m1 | A + B + C' | M1 |
+| 0 1 0 | A'BC' | m2 | A + B' + C | M2 |
+| 0 1 1 | A'BC | m3 | A + B' + C' | M3 |
+| 1 0 0 | AB'C' | m4 | A' + B + C | M4 |
+| 1 0 1 | AB'C | m5 | A' + B + C' | M5 |
+| 1 1 0 | ABC' | m6 | A' + B' + C | M6 |
+| 1 1 1 | ABC | m7 | A' + B' + C' | M7 |                                                                           
                                                                                  
                                                                      
 

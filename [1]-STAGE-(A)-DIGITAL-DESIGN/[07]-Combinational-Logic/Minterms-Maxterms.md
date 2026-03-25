@@ -1,4 +1,4 @@
-## Minterm
+## Minterms
 A minterm is a product (AND) term in which all variables appear exactely once,either in normal or complemented form the minterm output will be (1).
 
 Minterm = AND of all inputs.
@@ -12,7 +12,7 @@ For three variable = [A , B , C']
 A = 1 , B = 0 , c = 0 
 
 ------------------------
-## Maxterm
+## Maxterms
 A maxterm ia a sun (OR) term it represents an unique input combinational which functional output will be (0).
 
 Maxterm = OR of all inputs.

@@ -52,6 +52,7 @@ The conical so wiil be
 f(A , B , c) = (A' * B * c) + (A * B' * C) + (A * B * C')
 
 Output = summation(3 , 5 , 6)
+
 ---------------------------------
 
 ## Conical product of sum  

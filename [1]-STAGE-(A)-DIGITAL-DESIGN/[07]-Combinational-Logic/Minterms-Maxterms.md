@@ -52,9 +52,19 @@ The conical so wiil be
 f(A , B , c) = (A' * B * c) + (A * B' * C) + (A * B * C')
 
 Output = summation(3 , 5 , 6)
+---------------------------------
 
-## Conical product of sum
+## Conical product of sum  
+The conical (POS) is also called as the *product of maxterm* and the function of thr conical product of sum is (AND) product its maxterm which putput will be '0'
 
+### Example 
+If a function f(A , B , C) it maxterm (M)
+
+The conical pos will be 
+
+f(A , B , c) = (A'+B+C) * (A+B'+C) * (A+B+C')
+
+Output = pai(4 , 2 , 1)
 
                                                                      
 

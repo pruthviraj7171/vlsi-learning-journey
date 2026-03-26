@@ -15,7 +15,7 @@ Outputs: Two outputs Sum(S) , Carry(C)
 |  1    0   |  1     0   |
 |  1    1   |  0     1   |
 
-##### Logic Equation 
+#### Logic Equation 
 
 Sum = a' * b + a * b'
 

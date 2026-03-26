@@ -8,7 +8,7 @@ Outputs: Two outputs Sum(S) , Carry(C)
 #### Truth Table
 
 |   Input   |   output   |
-------------|------------|
+|:---------:|:----------:|
 |  A    B   |  s     c   |
 |  0    0   |  0     0   |   
 |  0    1   |  1      0  |

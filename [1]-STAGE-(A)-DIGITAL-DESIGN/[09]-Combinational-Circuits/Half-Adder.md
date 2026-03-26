@@ -9,9 +9,14 @@ Outputs: Two outputs Sum(S) , Carry(C)
 
 |   Input   |   output   |
 |:---------:|:----------:|
-|  A    B   |  s     c   |
+|  A    B   |  S     C   |
 |  0    0   |  0     0   |   
-|  0    1   |  1      0  |
-|  1    0   |  1      0  |
-|  1    1   |  0      1  |
+|  0    1   |  1     0   |
+|  1    0   |  1     0   |
+|  1    1   |  0     1   |
 
+##### Logic Equation 
+
+Sum = a' * b + a * b'
+
+Carry = a * b

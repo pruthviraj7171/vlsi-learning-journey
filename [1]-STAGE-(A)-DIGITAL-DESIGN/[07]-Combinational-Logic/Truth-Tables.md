@@ -18,7 +18,7 @@ A truth table is a table used to show a all possible input combinations and thei
 *1.AND Gate*
 
 |    Inputs   |   Outputs   |
-|-------------|-------------|
+|:-----------:|:-----------:|
 |  A       B  |    A * B    |  
 |  0       0  |      0      |
 |  0       1  |      0      |
@@ -30,7 +30,7 @@ A truth table is a table used to show a all possible input combinations and thei
 *2.OR Gate*
 
 |   Inputs   |   Output   |
-|------------|------------|
+|:----------:|:----------:|
 |   A    B   |    A + B   |
 |   0    0   |      0     |
 |   0    1   |      1     |
@@ -42,7 +42,7 @@ A truth table is a table used to show a all possible input combinations and thei
 *2.NOT Gate*
 
 |   Input   |   Output    |
-|-----------|-------------|
+|:---------:|:-----------:|
 |     A     |      A'     |
 |     0     |      1      |
 |     1     |      0      |

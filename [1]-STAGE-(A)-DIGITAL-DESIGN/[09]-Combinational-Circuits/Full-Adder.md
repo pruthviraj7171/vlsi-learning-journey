@@ -6,6 +6,33 @@ Inputs:- Three (A , B , Cin)
 
 Outputs:- Two (Sum and carry out)
 
+### Truth Table 
+
+|     input     |     Output     |
+|:-------------:|:--------------:|
+|  A   B   Cin  | Sum  Carry out |
+|  0   0    0   |  0       0     |
+|  0   0    1   |  1       0     |
+|  0   1    0   |  1       0     | 
+|  0   1    1   |  0       1     |
+|  1   0    0   |  1       0     |
+|  1   0    1   |  0       1     |
+|  1   1    0   |  0       1     |
+|  1   1    1   |  1       1     | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

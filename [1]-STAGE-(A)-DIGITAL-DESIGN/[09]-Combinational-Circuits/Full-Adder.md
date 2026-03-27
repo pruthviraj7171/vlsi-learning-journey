@@ -20,6 +20,13 @@ Outputs:- Two (Sum and carry out)
 |  1   1    0   |  0       1     |
 |  1   1    1   |  1       1     | 
 
+#### Logic Equation 
+ Sum = (A'B'C) + (A'Bc') + (AB'c') + (ABC)
+
+ Sum = c'(A'B + AB') + C(A'B' + AB)
+
+ Carry out = 
+
 
 
 

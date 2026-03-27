@@ -9,7 +9,7 @@ Outputs: Two (D - difference , B - borrow)
 
 |   Input   |  Output  |
 |:---------:|:--------:|
-|  A  B  C  |   D   B  |
+|  A :-: B  C  |   D   B  |
 |  0  0  0  |   0   0  | 
 |  0  0  1  |   1   1  |
 |  0  1  0  |   1   1  |

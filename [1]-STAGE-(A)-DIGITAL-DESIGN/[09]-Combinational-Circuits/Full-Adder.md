@@ -25,8 +25,11 @@ Outputs:- Two (Sum and carry out)
 
  Sum = c'(A'B + AB') + C(A'B' + AB)
 
- Carry out = 
+ Carry out = (A'BC) + (AB'C) + (ABC') + (ABC)
 
+ Carry out = C(A'B + AB') + AB(C" + C)
+
+ Carry out = AB + BC + AC
 
 
 

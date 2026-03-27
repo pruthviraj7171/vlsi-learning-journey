@@ -1,9 +1,9 @@
 ## Full Subctractor 
 A full subctractor is a conbinational circuit that subctracts three single bit binary number (A B and cin) producing difference (D) a borrow (Bout) output.
 
-Inputs: Two (A , B , cin)
+- Inputs: Three (A , B , cin)
 
-Outputs: Two (D - difference , B - borrow)
+- Outputs: Two (D - difference , B - borrow)
 
 #### Truth Table 
 

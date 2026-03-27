@@ -5,3 +5,16 @@ Inputs: Two (A , B , cin)
 
 Outputs: Two (D - difference , B - borrow)
 
+#### Truth Table 
+
+|   Input   |  Output  |
+|:---------:|:--------:|
+|  A  B  C  |   D   B  |
+|  0  0  0  |   0   0  | 
+|  0  0  1  |   1   0  |
+|  0  1  0  |   1   0  |
+|  0  1  1  |   0   1  |
+|  1  0  0  |   1   0  |
+|  1  0  1  |   0   1  |
+|  1  1  0  |   0   1  |
+|  1  1  1  |   1   1  | 

@@ -17,6 +17,6 @@ A half adder is a fundamental combinational logic circuit that add two single bi
 
 #### Logic Equation 
 
-Sum = a' * b + a * b'
+- Sum = a' * b + a * b'
 
-Carry = a * b
+- Carry = a * b

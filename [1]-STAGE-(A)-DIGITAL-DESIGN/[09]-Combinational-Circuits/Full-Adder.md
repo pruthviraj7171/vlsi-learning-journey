@@ -21,15 +21,15 @@ to produce a sum (S) and a carry-out (Cout).
 |  1   1    1   |  1       1     | 
 
 #### Logic Equation 
- Sum = (A'B'C) + (A'Bc') + (AB'c') + (ABC)
+ - Sum = (A'B'C) + (A'Bc') + (AB'c') + (ABC)
 
- Sum = c'(A'B + AB') + C(A'B' + AB)
+ - Sum = c'(A'B + AB') + C(A'B' + AB)
 
- Carry out = (A'BC) + (AB'C) + (ABC') + (ABC)
+ - Carry out = (A'BC) + (AB'C) + (ABC') + (ABC)
 
- Carry out = C(A'B + AB') + AB(C" + C)
+ - Carry out = C(A'B + AB') + AB(C" + C)
 
- Carry out = AB + BC + AC
+ - Carry out = AB + BC + AC
 
 
 

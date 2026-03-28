@@ -15,7 +15,7 @@ A half subctractor is a combinational digital circuit that subctracts two single
   |  1   0  |  1    0  |
   |  1   1  |  0    0  |
 
-  ### Logic Equation
+### Logic Equation
 
 - Difference = A'B + AB'
 

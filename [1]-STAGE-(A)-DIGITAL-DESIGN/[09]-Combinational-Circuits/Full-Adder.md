@@ -20,7 +20,7 @@ to produce a sum (S) and a carry-out (Cout).
 |  1   1    0   |  0       1     |
 |  1   1    1   |  1       1     | 
 
-#### Logic Equation 
+### Logic Equation 
  - Sum = (A'B'C) + (A'Bc') + (AB'c') + (ABC)
 
  - Sum = c'(A'B + AB') + C(A'B' + AB)

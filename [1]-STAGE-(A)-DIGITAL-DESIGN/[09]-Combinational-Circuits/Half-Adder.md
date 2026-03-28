@@ -5,7 +5,7 @@ A half adder is a fundamental combinational logic circuit that add two single bi
 
 - Outputs: Two outputs Sum(S) , Carry(C)
 
-#### Truth Table
+### Truth Table
 
 |   Input   |   output   |
 |:---------:|:----------:|
@@ -15,8 +15,10 @@ A half adder is a fundamental combinational logic circuit that add two single bi
 |  1    0   |  1     0   |
 |  1    1   |  0     1   |
 
-#### Logic Equation 
+### Logic Equation 
 
 - Sum = a' * b + a * b'
 
 - Carry = a * b
+
+### Logic Diagram

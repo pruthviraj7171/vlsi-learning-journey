@@ -5,7 +5,7 @@ A encoder is a sensor or circuit that converts motion or data into electrical or
 - Rotary Encoders
 - Linear Encoder
 
-#### Trut Table
+### Trut Table
 | D0 | D1 | D2 | D3 | D4 | D5 | D6 | D7 |      | X | Y | Z | 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:----:|:-:|:-:|:-:
 | 1  |  0 |  0 | 0  | 0  |  0 |  0 |  0 |      | 0 | 0 | 0 |              

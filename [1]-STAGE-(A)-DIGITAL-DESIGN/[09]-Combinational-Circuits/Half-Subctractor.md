@@ -5,7 +5,7 @@ A half subctractor is a combinational digital circuit that subctracts two single
 
 - Outputs: Two (Difference , Borrow)
 
-  #### Truth Table
+  ### Truth Table
 
   |  Input  |  Output  |
   |:-------:|:--------:|
@@ -15,10 +15,10 @@ A half subctractor is a combinational digital circuit that subctracts two single
   |  1   0  |  1    0  |
   |  1   1  |  0    0  |
 
-  #### Logic Equation
+  ### Logic Equation
 
 - Difference = A'B + AB'
 
 - Barrow = A' * B
 
-#### Logic Diagram
+### Logic Diagram

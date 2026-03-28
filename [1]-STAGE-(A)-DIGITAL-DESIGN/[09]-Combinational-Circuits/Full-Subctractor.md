@@ -5,7 +5,7 @@ A full subctractor is a conbinational circuit that subctracts three single bit b
 
 - Outputs: Two (D - difference , B - borrow)
 
-#### Truth Table 
+### Truth Table 
 
 |   Input   |  Output  |
 |:---------:|:--------:|
@@ -19,11 +19,11 @@ A full subctractor is a conbinational circuit that subctracts three single bit b
 |  1  1  0  |   0   0  |
 |  1  1  1  |   1   1  | 
 
-#### Logic Equation 
+### Logic Equation 
 
 - Difference = A'B'C + A'BC' + AB'C' + ABC
 
 - Borrow = A'C + BC + A'B
 
-#### Logic Diagram
+### Logic Diagram
 

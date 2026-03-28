@@ -25,4 +25,6 @@ A encoder is a sensor or circuit that converts motion or data into electrical or
   
 - Z = D1 + D3 + D5 + D7
 
+### Circuit Diagram
+
 

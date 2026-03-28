@@ -31,7 +31,7 @@ to produce a sum (S) and a carry-out (Cout).
 
  - Carry out = AB + BC + AC
 
-#### Logic Diagram
+### Logic Diagram
 
 
 

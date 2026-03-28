@@ -20,7 +20,9 @@ A encoder is a sensor or circuit that converts motion or data into electrical or
 #### Logic Equation
 
 - X = D4 + D5 + D6 + D7
+  
 - Y = D2 + D3 + D6 + D7
+  
 - Z = D1 + D3 + D5 + D7
 
 

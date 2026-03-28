@@ -20,3 +20,5 @@ A half subctractor is a combinational digital circuit that subctracts two single
 - Difference = A'B + AB'
 
 - Barrow = A' * B
+
+#### Logic Diagram

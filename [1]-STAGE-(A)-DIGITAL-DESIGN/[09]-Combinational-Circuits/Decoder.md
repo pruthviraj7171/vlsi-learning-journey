@@ -27,8 +27,6 @@ A decoder is a combinational logic circuit that converts n inputs lines a maximu
 
 - D2 = X'YZ'
 
-### Logic DiagramS
-
 - D3 = X'YZ
 
 - D4 = XY'Z'
@@ -38,4 +36,6 @@ A decoder is a combinational logic circuit that converts n inputs lines a maximu
 - D6 = XYZ'
 
 - D7 = XYZ
+
+### Logic DiagramS
 

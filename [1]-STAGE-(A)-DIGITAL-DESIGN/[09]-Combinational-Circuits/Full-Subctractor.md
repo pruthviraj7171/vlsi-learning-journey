@@ -25,5 +25,5 @@ A full subctractor is a conbinational circuit that subctracts three single bit b
 
 - Borrow = A'C + BC + A'B
 
-### Logic Diagram
+
 

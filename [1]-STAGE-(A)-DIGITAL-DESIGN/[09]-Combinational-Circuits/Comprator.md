@@ -5,7 +5,7 @@ A comparator is an electronic component thatcompares two analog input voltages a
 - input Terminal: Has two inputs a non inverting(+) and an inverting input(-)
 
 ### Truth Table
-
+--------Inputs----------Outputs-------
 | A1 | A0 | B1 | B0 | A<B | A=B | A>B |
 |:--:|:--:|:--:|:--:|:---:|:---:|:---:|
 | 0  | 0  | 0  | 0  |  0  |  1  |  0  |

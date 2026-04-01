@@ -25,3 +25,5 @@ A comparator is an electronic component thatcompares two analog input voltages a
 | 1  | 1  | 1  | 0  |  0  |  0  |  1  |
 | 1  | 1  | 1  | 1  |  0  |  1  |  0  |
 
+### Logic Diagram
+

@@ -37,5 +37,4 @@ A decoder is a combinational logic circuit that converts n inputs lines a maximu
 
 - D7 = XYZ
 
-### Logic DiagramS
 

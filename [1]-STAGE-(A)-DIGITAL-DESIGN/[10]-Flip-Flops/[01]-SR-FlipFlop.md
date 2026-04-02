@@ -11,6 +11,11 @@ An SR(Set-Reset) flip-flop is a fundamental bistable multivibrator circuit used 
 
 ![Logic Diagram](Circuit-image.png)
 
+### Equation
+
+- S* = (S.CLK)' = S' + CLK'
+- R* = (R.CLK)' = R' + CLK'
+
 ### Truth Table
 
 | S | R | Q | Q'|
@@ -19,3 +24,12 @@ An SR(Set-Reset) flip-flop is a fundamental bistable multivibrator circuit used 
 | 0 | 1 | 1 | 0 |
 | 1 | 0 | O | 1 |
 | 1 | 1 | MEMORY | MEMORY |
+
+| CLK | S | R | Q | Q'|
+|:---:|:-:|:-:|:-:|:-:|
+|  0  | - | - | MEMORY | MEMORY |
+|  1  | 0 | 0 | MEMORY | MEMORY |
+|  1  | 0 | 1 | 0 | 1 |
+|  1  | 1 | 0 | 1 | 0 |
+|  1  | 1 | 1 | INVALID | INVALID |
+ 

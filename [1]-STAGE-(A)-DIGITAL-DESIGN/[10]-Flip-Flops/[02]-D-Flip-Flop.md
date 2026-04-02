@@ -4,3 +4,8 @@ A D flip-flop is stands for (Data flip flop) it is a fundamental digital electro
 ### Key Feature 
 - output Q
 - input D
+
+### Logic Diagram
+
+![Logic Diagram](Circuit-image1.png)
+

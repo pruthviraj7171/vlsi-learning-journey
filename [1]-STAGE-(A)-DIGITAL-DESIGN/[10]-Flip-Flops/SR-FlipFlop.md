@@ -7,4 +7,5 @@ An SR(Set-Reset) flip-flop is a fundamental bistable multivibrator circuit used 
 - Hold
 - Invalid
 
-### Truth Table 
+### logic Diagram
+

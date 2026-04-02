@@ -9,3 +9,4 @@ An SR(Set-Reset) flip-flop is a fundamental bistable multivibrator circuit used 
 
 ### logic Diagram
 
+![Logic Diagram](SR-Flip-Flop.png)

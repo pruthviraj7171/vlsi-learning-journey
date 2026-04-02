@@ -9,3 +9,12 @@ A D flip-flop is stands for (Data flip flop) it is a fundamental digital electro
 
 ![Logic Diagram](Circuit-image1.png)
 
+### Truth Table
+
+| CLK | S | R |   | Qn+1 |
+|:---:|:-:|:-:|:-:|:----:|
+|  0  | - | - |   |  QN  |
+|  1  | 0 | 0 |   |  QN  |
+|  1  | 0 | 1 |   |   1  |
+|  1  | 1 | 0 |   |   1  |
+|  1  | 1 | 1 |   | INVALID |

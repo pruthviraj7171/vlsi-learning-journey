@@ -8,3 +8,6 @@ A T flip flop stands for (Toggle) it is a fundamental sequencial logic circuit t
 |  0  | - |  Qn  |
 |  1  | 0 |  Qn  |
 |  1  | 1 |  Q'n |
+
+### Logic Diagram 
+![Logic Diagram](Circuit-image3.png)

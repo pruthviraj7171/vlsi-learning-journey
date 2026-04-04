@@ -3,7 +3,7 @@ A characteristics table in digital electronics defines the next state  (Qn+1) of
 
 ### Characteristics Table for Common Flip-Flop
 
-- SR Flip-Flop
+- - SR Flip-Flop
 - 00: Hold (Qn+1 = Qn)
 - 01: Reset (Qn+1 = 0)
 - 10: Set (Qn+1 = 1)

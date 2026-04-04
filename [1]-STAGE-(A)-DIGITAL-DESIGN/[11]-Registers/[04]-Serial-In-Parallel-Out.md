@@ -11,3 +11,4 @@ Imagine a 4-bit SIPO using 4 D-flip-flops (
 
 ![Circuit Diagram](SISO-Circuit-image.png)
 
+

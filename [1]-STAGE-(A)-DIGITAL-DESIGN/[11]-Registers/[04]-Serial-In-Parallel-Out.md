@@ -6,3 +6,7 @@ A Serial-in-Parallen-Out shift register is a digital circuit that converts seria
 Imagine a 4-bit SIPO using 4 D-flip-flops (
  to 
 ) to receive data bits 1011 (leftmost bit last).
+
+#### SIPO 
+![Circuit Diagram](SISO-Circuit-image.png)
+

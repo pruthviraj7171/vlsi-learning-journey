@@ -10,3 +10,8 @@ In a 4-bit SISO register, input
  output of.
 
 ### SISO Circuit Diagram
+
+![Circuit Diagram](SISO-Circuit-image.png)
+
+### Truth Table 
+

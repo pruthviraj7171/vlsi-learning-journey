@@ -9,7 +9,7 @@ In a 4-bit SISO register, input
 , and so on, with the final serial output taken from the 
  output of.
 
-### SISO Circuit Diagram
+#### SISO Circuit Diagram
 
 ![Circuit Diagram](SISO-Circuit-image.png)
 

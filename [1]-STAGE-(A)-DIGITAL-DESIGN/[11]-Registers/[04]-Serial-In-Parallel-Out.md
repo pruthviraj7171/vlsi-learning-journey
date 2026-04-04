@@ -11,4 +11,6 @@ Imagine a 4-bit SIPO using 4 D-flip-flops (
 
 ![Circuit Diagram](SIPO-Circuit-image.png)
 
+### Truth Table 
+
 

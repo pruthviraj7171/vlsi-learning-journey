@@ -8,3 +8,5 @@ In a 4-bit SISO register, input
  going to 
 , and so on, with the final serial output taken from the 
  output of.
+
+### SISO Circuit Diagram

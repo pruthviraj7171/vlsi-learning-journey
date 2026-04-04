@@ -7,6 +7,7 @@ Imagine a 4-bit SIPO using 4 D-flip-flops (
  to 
 ) to receive data bits 1011 (leftmost bit last).
 
-#### SIPO 
+#### SIPO Circuit Diagram
+
 ![Circuit Diagram](SISO-Circuit-image.png)
 

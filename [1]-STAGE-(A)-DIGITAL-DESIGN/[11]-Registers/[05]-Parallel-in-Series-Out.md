@@ -5,3 +5,8 @@ A PISO (Parallel-In-Series-Out) register is a digital circuit tthat acceps multi
 
 Load Phase: The 4-bit word (
 ) is loaded into four flip-flops (Q0-Q3) at once.
+
+
+### Logic Diagram
+
+![Circuit Diagram](PISO-Circuit-image.png)

@@ -14,3 +14,7 @@ A ripple counter ia a digital circuit where flip-flops are clocked sequentially,
 - Positive edge triggered:- Q' is clock [UP COUNTER]
 - Negative egde triggered:- Q' is clock [DOWN COUNTER]
 - Positive edge triggered:- Q is clock [DOWN COUNTER]
+
+### Circuit Diagram
+
+![Circuit Diagram](4-bit-ripple-Circuit-image.png)

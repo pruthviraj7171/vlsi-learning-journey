@@ -10,3 +10,6 @@ A PIPO (Parallel-in-Parallel-Out) shift register are digital circuits that load 
 - Operation: Unlike PISO or SIPO, data is not shifted left or right; it is immediately available.
 
 ### Circuit Diagram
+
+![Circuit Diagram](PIPO-Circuit-image.png)
+

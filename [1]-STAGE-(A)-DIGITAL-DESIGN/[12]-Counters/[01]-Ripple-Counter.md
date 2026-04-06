@@ -18,3 +18,5 @@ A ripple counter ia a digital circuit where flip-flops are clocked sequentially,
 ### Circuit Diagram
 
 ![Circuit Diagram](4-bit-ripple-Circuit-image.png)
+
+### Truth Table

@@ -6,3 +6,12 @@ A synchronous counter is a digital circuit where all flip-flops are triggered si
 - Binary Counter
 - BCD Counter
 - Ring Counter
+- djoiejojdijdijijskieuijshiuehjij
+- jdihjhjid
+- dj;jj
+- djihyeuiuhhdijkd
+- jdiiji
+- djiuhjjd
+- jdijijid
+- dkijuhd
+- ghjklhgffghjklhgfghjk

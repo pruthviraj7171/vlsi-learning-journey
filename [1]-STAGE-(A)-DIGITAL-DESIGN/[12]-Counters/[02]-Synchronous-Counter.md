@@ -9,6 +9,8 @@ A synchronous counter is a digital circuit where all flip-flops are triggered si
 - djoiejojdijdijijskieuijshiuehjij
 - jdihjhjid
 - dj;jj
+- s;'dskfojl
+- dsklkoksdol
 - djihyeuiuhhdijkd
 - jdiiji
 - djiuhjjd
